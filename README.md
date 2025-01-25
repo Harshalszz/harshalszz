@@ -1,19 +1,27 @@
-### Hi there 👋
+Hi there 👋
+I’m Harshal Siddharth Zodape
 
-**I am Harshal Zodape** 
+A results-driven Software Engineer passionate about crafting impactful solutions through web development, database management, and full-stack engineering. With hands-on experience in Java, Spring Boot, Angular, and .NET, I thrive on building scalable, secure, and efficient applications.
 
-I am an undergrad computer science student. My main interest lies in web development and mobile app development. I am learning flutter. I love to write technical articles. I have written some on Geeksforgeeks. 
-I love to learn new things. 
+💻 What I Do:
 
-**Articles**
+Develop robust RESTful APIs and integrate them with intuitive frontends.
+Implement cutting-edge microservices architectures for scalability and fault tolerance.
+Craft real-time data monitoring systems with secure JWT authentication.
+Solve problems and improve code quality in Agile development environments.
+📚 What I’ve Built:
 
-- Dart - Null Safety : https://www.geeksforgeeks.org/dart-null-safety/
-- LEX program to print the longest string and to find average of given numbers  :  https://www.geeksforgeeks.org/lex-program-to-print-the-longest-string-and-to-find-average-of-given-numbers/
-- Difference between Flutter and Angular : https://www.geeksforgeeks.org/difference-between-flutter-and-angular/
+AssetMon: A real-time asset monitoring system using Java, Spring Boot, Angular, and Highcharts.
+BugTrackerX: A role-based defect tracking system with PostgreSQL and Spring Security.
+✍️ I Love Sharing Knowledge:
+I’ve written technical articles on GeeksforGeeks, sharing insights about:
 
-**Connect with Me**
+Dart Null Safety
+LEX Program to Find Longest String & Average Numbers
+Flutter vs. Angular
+🤝 Connect With Me:
 
-- Linkdin : https://www.linkedin.com/in/harshal-zodape-aa718019a/
-- Twitter : https://twitter.com/s_zodape
-- Email : 477harshz@gmail.com
-
+LinkedIn
+Twitter
+Email
+✨ Let’s collaborate to turn ideas into impactful applications!
