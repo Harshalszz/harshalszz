@@ -24,7 +24,7 @@ I’ve written technical articles on **GeeksforGeeks**, sharing insights about:
 
 ## 🤝 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/harshal-zodape-aa718019a/)
-- [Website](https://harshalzodape.netlify.app/) 
+- [Website](https://harshalszodape.netlify.app/) 
 - [Twitter](https://twitter.com/s_zodape)  
 - [Email](mailto:477harshz@gmail.com)  
 
