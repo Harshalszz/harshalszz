@@ -2,7 +2,7 @@
 
 **I’m Harshal Siddharth Zodape**  
 
-A **results-driven Software Engineer** with 2 years of experience in **full-stack development**, **API integration**, and **database solutions**. Skilled in **Java**, **Spring Boot**, **Angular**, and **SQL**, I specialize in building scalable systems with strong exception handling, secure authentication, and robust performance optimization.  
+A **results-driven Software Engineer** with 3 years of experience in **full-stack development**, **API integration**, and **database solutions**. Skilled in **Java**, **Spring Boot**, **Angular**, and **SQL**, I specialize in building scalable systems with strong exception handling, secure authentication, and robust performance optimization.  
 
 ---
 
@@ -16,6 +16,19 @@ A **results-driven Software Engineer** with 2 years of experience in **full-stac
 ---
 
 ## 🧩 Professional Experience  
+
+### Associate Engineer (RuPay International Team)	- National Payments Corporation of India (NPCI)  Mumbai, India 
+-	Working as part of the RuPay International Jaywan project, contributing to core payment products NTS and SecureNXT.
+- Enhanced the SwitchNXT Admin Portal using React.js and Spring Boot, implementing new features, fixing end-to-end issues, and resolving production defects.
+-	Built and maintained Jenkins CI/CD pipelines for automated builds, deployments, and testing across UAT and production environments.
+-	Actively involved in UAT testing, release validation, and client support, including analysis and resolution of production bugs.
+-	Developed a secure dynamic reporting engine using JWT + AES authentication, implemented Log4j audit logging, and built customizable dashboards for RuPay card offer management.
+-	Debugged and optimized high-throughput payment services built on Vert.x and Spring Framework, improving system performance and reliability.
+-	Designed and configured high-availability infrastructure including Redis Cluster with Sentinel, Kafka + Zookeeper, and PostgreSQL replication to ensure fault tolerance.
+-	Managed UAT environments on Ubuntu servers, handling deployment, configuration, monitoring, and issue resolution.
+-	Gained hands-on experience with EMVCo 3DS specifications and RuPay payment processing standards.
+-	Used Jira for defect tracking, sprint management, and cross-team coordination.
+
 
 ### **Software Engineer — Yardi Software India Pvt. Ltd. (Nov 2023 – Present)**  
 - Delivered 50+ SQL data packages improving **data integrity and consistency** across RentCafe (Angular + Spring Boot).  
