@@ -64,7 +64,7 @@ A **results-driven Software Engineer** with 3 years of experience in **full-stac
 
 ## 🧠 Technical Skills  
 **Languages:** Java, SQL, TypeScript, JavaScript, HTML5, CSS3, Linux  
-**Frameworks:** Spring Boot, Angular, Hibernate/JPA, .NET, Spring Security, AOP  
+**Frameworks:** Spring Boot, Angular, Hibernate/JPA, .NET, Spring Security, AOP, PM2  
 **Tools:** Git, GitHub, IntelliJ, Postman, Jenkins, Maven, Gradle  
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Messaging:** RabbitMQ, Kafka (familiar)  
