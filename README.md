@@ -67,7 +67,7 @@ A **results-driven Software Engineer** with 3 years of experience in **full-stac
 **Frameworks:** Spring Boot, Angular, Hibernate/JPA, .NET, Spring Security, AOP, PM2  
 **Tools:** Git, GitHub, IntelliJ, Postman, Jenkins, Maven, Gradle  
 **Databases:** PostgreSQL, MySQL, MongoDB  
-**Messaging:** RabbitMQ, Kafka (familiar)  
+**Messaging:** RabbitMQ, Kafka (familiar)  ,Redis
 **Cloud/DevOps:** AWS, Docker, CI/CD, Logging & Monitoring  
 **Concepts:** Data Structures, Algorithms, OOP, Design Patterns, SOLID  
 
