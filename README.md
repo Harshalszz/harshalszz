@@ -25,7 +25,7 @@ A **results-driven Software Engineer** with 3 years of experience in **full-stac
 -	Developed a secure dynamic reporting engine using JWT + AES authentication, implemented Log4j audit logging, and built customizable dashboards for RuPay card offer management.
 -	Debugged and optimized high-throughput payment services built on Vert.x and Spring Framework, improving system performance and reliability.
 -	Designed and configured high-availability infrastructure including Redis Cluster with Sentinel, Kafka + Zookeeper, and PostgreSQL replication to ensure fault tolerance.
--	Managed UAT environments on Ubuntu servers, handling deployment, configuration, monitoring, and issue resolution.
+-	Managed UAT environments on Ubuntu servers, PM2 for process management, handling deployment, configuration, monitoring, and issue resolution.
 -	Gained hands-on experience with EMVCo 3DS specifications and RuPay payment processing standards.
 -	Used Jira for defect tracking, sprint management, and cross-team coordination.
 
