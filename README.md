@@ -39,7 +39,7 @@ A **results-driven Software Engineer** with 3 years of experience in **full-stac
 
 ### **Application Engineer Intern — Hitachi Vantara (Jan 2023 – Aug 2023)**  
 - Developed RESTful APIs with **Spring Boot** and **Angular**, following SOLID and design pattern principles.  
-- Created **microservice-based modules** with Spring Boot, JPA, and messaging queues.  
+- Created **microservice-based modules** with Spring Boot, JPA, and messaging queues (Kafka).  
 - Participated in **Agile ceremonies**, ensuring high-quality feature delivery.  
 - Hands-on with **AWS, Docker, and cloud deployment** workflows.  
 
