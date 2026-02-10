@@ -2,7 +2,7 @@
 
 **I’m Harshal Siddharth Zodape**  
 
-A **results-driven Software Engineer** with 3 years of experience in **full-stack development**, **API integration**, and **database solutions**. Skilled in **Java**, **Spring Boot**, **Angular**, and **SQL**, I specialize in building scalable systems with strong exception handling, secure authentication, and robust performance optimization.  
+A **results-driven Software Engineer** with 3 years of experience in **full-stack development**, **API integration**, and **database solutions**. Skilled in **Java**, **Spring Boot**, **Angular**, **Kafka**, **Microservices** , **Multi-threading**, and **SQL**, I specialize in building scalable systems with strong exception handling, secure authentication, and robust performance optimization.  
 
 ---
 
