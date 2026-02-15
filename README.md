@@ -18,16 +18,36 @@ A **results-driven Software Engineer** with 3 years of experience in **full-stac
 ## 🧩 Professional Experience  
 
 ### Associate Engineer (RuPay International Team)	- National Payments Corporation of India (NPCI)  Mumbai, India 
--	Working as part of the RuPay International Jaywan project, contributing to core payment products NTS and SecureNXT.
-- Enhanced the SwitchNXT Admin Portal using React.js and Spring Boot, implementing new features, fixing end-to-end issues, and resolving production defects.
--	Built and maintained Jenkins CI/CD pipelines for automated builds, deployments, and testing across UAT and production environments.
--	Actively involved in UAT testing, release validation, and client support, including analysis and resolution of production bugs.
--	Developed a secure dynamic reporting engine using JWT + AES authentication, implemented Log4j audit logging, and built customizable dashboards for RuPay card offer management.
--	Debugged and optimized high-throughput payment services built on Vert.x and Spring Framework, improving system performance and reliability.
--	Designed and configured high-availability infrastructure including Redis Cluster with Sentinel, Kafka + Zookeeper, and PostgreSQL replication to ensure fault tolerance.
--	Managed UAT environments on Ubuntu servers, PM2 for process management, handling deployment, configuration, monitoring, and issue resolution.
--	Gained hands-on experience with EMVCo 3DS specifications and RuPay payment processing standards.
--	Used Jira for defect tracking, sprint management, and cross-team coordination.
+- Contributed to the development and enhancement of core RuPay payment platforms NTS (Network Tokenization 
+System) and SecureNXT, supporting high-volume, mission-critical card payment transactions. 
+- Led the design and implementation of a secure “Key Rotation” feature for NTS: 
+- Built a maker-checker workflow in the React.js-based NTS Admin Portal for controlled RSA key lifecycle management. 
+- Developed backend logic in Spring Boot (Java) for RSA key pair generation, secure database updates, staged table 
+management, and rollback capability. 
+- Automated proactive key renewal (1 month prior to expiry) with backup retention of previous keys to ensure zero 
+downtime and high operational resilience. 
+- Enhanced the NTS Admin Portal (React.js + Spring Boot) by implementing new features, resolving end-to-end 
+production defects, and improving usability and operational efficiency. 
+- Engineered enhancements to token lifecycle management: 
+- Resolved critical production issues related to token generation against card PAN (debit/credit). 
+- Implemented real-time notification mechanisms triggered on card PAN/expiry updates. 
+- Integrated Apache Kafka–based event streaming to notify Token Requestors and Issuers (via ISO/API formats), 
+ensuring data synchronization and regulatory compliance. 
+- Designed and developed a secure dynamic reporting engine using JWT + AES-based authentication, integrated Log4j 
+audit logging, and built customizable dashboards for RuPay card offer management. 
+- Debugged and optimized high-throughput payment services built on Vert.x and Spring Framework, improving 
+performance, stability, and response time under peak transaction loads. 
+- Designed and configured high-availability distributed infrastructure: Redis Cluster for caching and session resilience, 
+Kafka + Zookeeper for event-driven communication, MySQL replication for database fault tolerance 
+- Built and maintained Jenkins CI/CD pipelines enabling automated builds, testing, and deployments across UAT and 
+Production environments, reducing manual deployment effort and release risk. 
+- Managed and supported UAT and Production environments on Ubuntu servers, including deployment, configuration, 
+monitoring, release validation, and client issue resolution. 
+- Actively participated in UAT testing, production release validation, and L2/L3 support, performing root cause 
+analysis and rapid resolution of high-priority payment incidents. 
+- Worked with EMVCo 3DS specifications and RuPay payment processing standards, ensuring compliance with global 
+security and authentication protocols. 
+- Used Jira for sprint planning, defect tracking, and cross-functional coordination in Agile development environments. 
 
 
 ### **Software Engineer — Yardi Software India Pvt. Ltd. (Nov 2023 – Present)**  
