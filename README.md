@@ -11,7 +11,7 @@ A **results-driven Software Engineer** with 3 years of experience in **full-stac
 - Architect and deploy **microservices-based applications** for scalability and resilience.  
 - Build real-time data monitoring systems with **Spring Security & JWT authentication**.  
 - Optimize databases using advanced SQL scripting and profiling tools.  
-- Automate builds and deployments with **CI/CD pipelines (Git, Jenkins, Maven)** in Agile workflows.  
+- Automate builds and deployments with **CI/CD pipelines (Git, Jenkins, Maven,PM2)** in Agile workflows.  
 
 ---
 
