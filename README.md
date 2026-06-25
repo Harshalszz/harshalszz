@@ -90,7 +90,7 @@ security and authentication protocols.
 **Messaging:** RabbitMQ, Kafka (familiar)  ,Redis
 **Cloud/DevOps:** AWS, Docker, CI/CD, Logging & Monitoring  
 **Concepts:** Data Structures, Algorithms, OOP, Design Patterns, SOLID  
-**AI:** MCP, LangChain, RAG ,VectorDB 
+**AI:** MCP, LangChain, RAG ,VectorDB, SFT, HSWN, Distallation
 
 ---
 
